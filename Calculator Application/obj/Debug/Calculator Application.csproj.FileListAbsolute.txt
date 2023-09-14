@@ -1,0 +1,11 @@
+C:\Users\Jordan\source\repos\Calculator Application\Calculator Application\bin\Debug\Calculator Application.exe.config
+C:\Users\Jordan\source\repos\Calculator Application\Calculator Application\bin\Debug\Calculator Application.exe
+C:\Users\Jordan\source\repos\Calculator Application\Calculator Application\bin\Debug\Calculator Application.pdb
+C:\Users\Jordan\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+C:\Users\Jordan\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jordan\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator_Application.Form1.resources
+C:\Users\Jordan\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+C:\Users\Jordan\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+C:\Users\Jordan\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator Application.exe
+C:\Users\Jordan\source\repos\Calculator Application\Calculator Application\obj\Debug\Calculator Application.pdb
